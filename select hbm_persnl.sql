@@ -1,4 +1,4 @@
-select count(*) from hbm_persnl
+select count(*) from hbm_client
 
 -- hello world
 
